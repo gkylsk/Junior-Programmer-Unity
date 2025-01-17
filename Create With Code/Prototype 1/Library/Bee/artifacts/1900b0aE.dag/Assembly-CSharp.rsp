@@ -351,6 +351,7 @@
 "Assets/Challenge 1/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 1/Scripts/PropellerX.cs"
 "Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/ObstacleVehicle.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 
