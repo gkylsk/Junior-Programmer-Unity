@@ -354,6 +354,8 @@
 "Assets/Challenge 2/Scripts/SpawnManagerX.cs"
 "Assets/Scripts/DestroyOutOfBounds.cs"
 "Assets/Scripts/DetectCollision.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/HungerBar.cs"
 "Assets/Scripts/MoveForward.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/SpawnManager.cs"
