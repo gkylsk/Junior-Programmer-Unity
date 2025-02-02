@@ -453,7 +453,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 81ec3b4ce4d061c4aad77def0663e424, type: 2}
+  - {fileID: 2100000, guid: e6e6f7a3c9f4839409af1eae15839382, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -514,6 +514,12 @@ MonoBehaviour:
   speed: 5
   hasPowerup: 0
   powerupForce: 15
+  currentPowerUp: 0
+  rocketPrefab: {fileID: 6268659686400350066, guid: a5c2db821ed00df48b9cc28be329347c, type: 3}
+  hangTime: 0
+  smashSpeed: 0
+  explosionForce: 0
+  explosionRadius: 0
 --- !u!1001 &1403545340
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -631,9 +637,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5997e27f20bdffe408c129ab9db7c709, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 7544989981386953126, guid: b8602222b6c96e64aa8c557869d6c2d3, type: 3}
-  powerup: {fileID: 4231949887222638955, guid: 1f1ebad8aadfcbf4381c6dfa99d1e54b, type: 3}
+  enemyPrefabs:
+  - {fileID: 7544989981386953126, guid: b8602222b6c96e64aa8c557869d6c2d3, type: 3}
+  - {fileID: 5189789287047141271, guid: 9d69d7a8ee840bb47ae907d9d22f1965, type: 3}
+  - {fileID: 4479269773152112516, guid: 05c783381b407794dbf26940b722691d, type: 3}
+  powerupPrefabs:
+  - {fileID: 4231949887222638955, guid: 1f1ebad8aadfcbf4381c6dfa99d1e54b, type: 3}
+  - {fileID: 7040543781820001115, guid: 6abff99ede97fe145832dc3c9b4071b7, type: 3}
+  - {fileID: 3053603072562805413, guid: 31b43ae54745c56488e67d638cad7334, type: 3}
   spawnRange: 9
+  bossPrefab: {fileID: 5173567470371837422, guid: 7f94d071d448a1e40934eb6d4c0e5ea6, type: 3}
+  miniEnemyPrefabs:
+  - {fileID: 5189789287047141271, guid: 9d69d7a8ee840bb47ae907d9d22f1965, type: 3}
+  - {fileID: 4479269773152112516, guid: 05c783381b407794dbf26940b722691d, type: 3}
+  bossRound: 2
 --- !u!4 &1730951147
 Transform:
   m_ObjectHideFlags: 0
