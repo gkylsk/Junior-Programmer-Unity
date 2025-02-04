@@ -352,6 +352,7 @@
 "Assets/Challenge 5/Scripts/GameManagerX.cs"
 "Assets/Challenge 5/Scripts/TargetX.cs"
 "Assets/Course Library/_Source_Files/Scripts/DestroyAfterDelay.cs"
+"Assets/Scripts/ClickAndSwipe.cs"
 "Assets/Scripts/DifficultyButton.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Target.cs"
