@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|e:\\github\\junior-programmer-unity\\create with code\\prototype 1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\assets\\scripts\\obstaclevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\assets\\challenge 1\\scripts\\propellerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2201CC7D-DE28-3578-5930-53E92C6F9545}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\propellerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FollowPlayer.cs",
-              "DocumentMoniker": "E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
-              "ToolTip": "E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\Assets\\Scripts\\FollowPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T05:01:27.481Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,34 +24,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T04:58:06.189Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ObstacleVehicle.cs",
-              "DocumentMoniker": "E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\Assets\\Scripts\\ObstacleVehicle.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleVehicle.cs",
-              "ToolTip": "E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\Assets\\Scripts\\ObstacleVehicle.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ObstacleVehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T04:57:47.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PropellerX.cs",
-              "DocumentMoniker": "E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PropellerX.cs",
-              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PropellerX.cs",
-              "ToolTip": "E:\\GitHub\\Junior-Programmer-Unity\\Create With Code\\Prototype 1\\Assets\\Challenge 1\\Scripts\\PropellerX.cs",
-              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PropellerX.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T14:31:20.241Z"
             }
           ]
         }
