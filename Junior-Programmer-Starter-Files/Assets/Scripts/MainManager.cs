@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class MainManager : MonoBehaviour
 {
-    public static MainManager instance;
+    public static MainManager instance { get; private set; } // encapsulation
 
     public Color TeamColor;
 
